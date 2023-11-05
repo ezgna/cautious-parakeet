@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: rgb(225, 239, 255);
+    font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid purple;
+}
+
+thead {
+    background-color: rgb(211, 163, 255);
+}
+
+th[scope="row"] {
+    font-family: monospace;
+    background-color: bisque;
+}
+
+th,
+td {
+    border-bottom: 1px solid purple;
+}
